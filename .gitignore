@@ -1,1 +1,8 @@
-/nbproject/
+*~
+.idea
+nbproject
+.DS_Store
+.DS_Store?
+*.orig
+/vendor/
+composer.lock
